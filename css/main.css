@@ -1,0 +1,55 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-image: url('../assets/img/totoro.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  height: 600px;
+  width: 100%;
+}
+header {
+  width: 100%;
+  height:70px;
+  display: inline-block;
+  text-align: center;
+  background: #6AD2F3;
+  font-family: 'Rokkitt', serif;
+  color: #fff;
+  padding-top: 10px;
+}
+
+.box1 {
+  width: 400px;
+  height: 200px;
+  background: #fff;
+  border: 1px solid #000;
+  display: inline-block;
+  line-height: 2.5;
+  margin-left:  100px;
+  margin-top: 10px;
+  padding-left: 10px;
+  font-family: 'Rokkitt', serif;
+}
+
+h3 {
+  font-family: 'Rokkitt', serif;
+  color: blue;
+
+}
+
+.container {
+  width: 450px;
+  height: 250px;
+  display: inline-block;
+  background-color: #fff;
+  margin: 5% auto;
+  padding-bottom: 1rem;
+  font-family: 'Rokkitt', serif;
+  position: absolute;
+  margin-left: 50px;
+
+}
